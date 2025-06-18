@@ -1,0 +1,8 @@
+# ninja log v6
+12	704	7719924871874482	build.ninja	3784ab759e0f68d8
+8	403	7719921644899378	CMakeFiles/wordle.dir/select_random_word.c.obj	414b4f5757a6a257
+9	437	7719920585306846	CMakeFiles/wordle.dir/main.c.obj	b071cbf653fd33d2
+76	533	7719920440521652	CMakeFiles/wordle.dir/get_user_input.c.obj	a2a5b86c577b2e3f
+160	625	7719920441366820	CMakeFiles/wordle.dir/print_result.c.obj	8342b471d89898b1
+121	569	7719920440976094	CMakeFiles/wordle.dir/check_guess.c.obj	64cf47f8043f5ff7
+404	878	7719921648858942	wordle.exe	9ff9bc9cf966a132

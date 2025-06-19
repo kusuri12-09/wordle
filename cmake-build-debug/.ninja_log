@@ -62,3 +62,5 @@
 35	380	7719974851011525	CMakeFiles/wordle.dir/select_random_word.c.obj	c0749f239a190490
 62	393	7719974851286572	CMakeFiles/wordle.dir/get_user_input.c.obj	913b806721334098
 393	768	7719974854597384	wordle.exe	9ff9bc9cf966a132
+12	320	7719975451390673	CMakeFiles/wordle.dir/select_random_word.c.obj	c0749f239a190490
+321	727	7719975454498035	wordle.exe	9ff9bc9cf966a132

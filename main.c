@@ -9,6 +9,8 @@ int main(void) {
 
     f_1312_select_random_word(answer_word, &max_attempt);  // 정답 단어 선정 및 최대 기회 입력
 
+    printf("%s\n", answer_word);
+
     printf("GAME START.\n\n");
 
     for (int attempt = 1; attempt <= max_attempt; attempt++) {
@@ -20,7 +22,7 @@ int main(void) {
             printf("CLEAR %d/%d\n", attempt, max_attempt);
             printf("정답: %s\n", answer_word);
             return 0;
-        }
+        } // 정답 출력 안되고 비정상적으로 종료되는 오류 있음
     }
 
     printf("게임 실패! 정답은 %s였습니다.\n", answer_word);

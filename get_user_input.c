@@ -5,9 +5,6 @@
 int f_1306_get_user_input(char input[]) {
     char buffer[100];  // 입력 버퍼
 
-    int ch;
-    while ((ch = getchar()) != '\n' && ch != EOF); // 입력 버퍼 비우기
-
     while (1) {
         printf("단어를 입력하세요 (5글자): ");
 

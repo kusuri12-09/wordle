@@ -9,8 +9,6 @@ int main(void) {
 
     f_1312_select_random_word(answer_word, &max_attempt);  // 정답 단어 선정 및 최대 기회 입력
 
-    printf("%s\n", answer_word);
-
     printf("GAME START.\n\n");
 
     for (int attempt = 1; attempt <= max_attempt; attempt++) {

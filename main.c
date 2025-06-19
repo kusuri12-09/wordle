@@ -21,12 +21,17 @@ int main(void) {
         if (f_1302_print_result(user_input, result)) {
             printf("CLEAR %d/%d\n", attempt, max_attempt);
             printf("정답: %s\n", answer_word);
-            return 0;
+            break;
         } // 정답 출력 안되고 비정상적으로 종료되는 오류 있음
     }
 
-    printf("게임 실패! 정답은 %s였습니다.\n", answer_word);
+    if (WORD_COUNT == user_input) {
+        printf("게임 실패! 정답은 %s였습니다.\n", answer_word);
+    }
+    printf("아무 키나 누르면 종료됩니다...");
+    getchar();
     return 0;
+
 }
 
 // 단어 목록 정의

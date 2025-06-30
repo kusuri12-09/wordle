@@ -1,0 +1,13 @@
+# ninja log v6
+12	540	7719957132407496	CMakeFiles/wordle_total.dir/main.c.obj	d4c1f40a1a60af70
+556	2159	7719957137867068	wordle_total.exe	195b31db90df2295
+14	381	7719966150391841	CMakeFiles/wordle_total.dir/main.c.obj	d4c1f40a1a60af70
+382	835	7719966154079372	wordle_total.exe	195b31db90df2295
+10	346	7719969535137386	CMakeFiles/wordle_total.dir/main.c.obj	d4c1f40a1a60af70
+347	769	7719969538500920	wordle_total.exe	195b31db90df2295
+11	395	7719969991277594	CMakeFiles/wordle_total.dir/main.c.obj	d4c1f40a1a60af70
+396	1108	7719969995120058	wordle_total.exe	195b31db90df2295
+14	374	7719989397432834	CMakeFiles/wordle_total.dir/main.c.obj	d4c1f40a1a60af70
+375	898	7719989401041206	wordle_total.exe	195b31db90df2295
+17	498	7719992119876403	CMakeFiles/wordle_total.dir/main.c.obj	d4c1f40a1a60af70
+512	1099	7719992124835140	wordle_total.exe	195b31db90df2295

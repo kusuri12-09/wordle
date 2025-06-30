@@ -1,0 +1,3 @@
+D:/project/c-project/wordle-total/cmake-build-debug/CMakeFiles/wordle_total.dir
+D:/project/c-project/wordle-total/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/project/c-project/wordle-total/cmake-build-debug/CMakeFiles/rebuild_cache.dir
